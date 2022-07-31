@@ -1,0 +1,22 @@
+.banner {
+    height: 80vh;
+    background: url(img/jumbotron-bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.info-panel {
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 12px;
+    align-items: center;
+    background-color: white;
+    margin-top: -10px;
+}
+
+.tentang {
+    margin-top: 91px;
+}
+
+.pala {
+    background-color: darkslategrey;
+}
